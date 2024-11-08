@@ -1,6 +1,8 @@
-# Analytical Report: Predicting Loan Application Outcomes using E-Signed Credit Facility Process
+# Analytical Report: Predicting Loan Application Outcomes using E-Signed Credit Facility Process & Ticket Performance
 
 This analytical report aims to analyze the status of loan applicants and their loan applications in order to automate the lending process using a machine learning model. The objective is to predict the outcome of the lending process if the credit facility process was completed through e-process, specifically E-Signed or not. The main focus of this case study was to identify applicants who have completed the e-process through Exploratory Data Analysis (EDA) techniques.
+
+Link to Ticket Operators Performance: https://app.powerbi.com/view?r=eyJrIjoiNWM0MTY2NDktNTQwNi00ZjQ3LTgwZTItOTk5NTUwZWUzMDQ1IiwidCI6IjVmZTc4YWMxLTFhZmUtNDAwOS1hYTA0LWE3MWVmYjRhNTA0MiIsImMiOjl9
 
 ## Table of Contents
 
